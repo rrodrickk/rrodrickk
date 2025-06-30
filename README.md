@@ -6,8 +6,8 @@ I'm Rodrigo, and I’m currently studying to **become a software enginnering**.
 - 🤝 I’m looking to **collaborate on small projects** to gain experience;
 - ⚡ Fun fact: I like to play jazz & neosoul guitar on my free time and am currently in a band, check us out:
 
-<div align="center">
+<div align="left">
   <a href="https://solmane.bandcamp.com/album/demos-da-lage">
-    <img src="https://i.imgur.com/W4cr04r.png" width="700">
+    <img src="https://i.imgur.com/W4cr04r.png" width="600">
   </a>
 </div>
