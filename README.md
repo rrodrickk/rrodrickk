@@ -1,6 +1,6 @@
-## Hi there 👋
+# Hi there 👋
 
-I'm Rodrigo, and I’m currently studying to **become a software engineer**.
+## I'm Rodrigo, and I’m currently studying to become a ***software engineer***.
 
 - 🌱 I’m currently learning **C, Haskell, AI (LLM's)**;
 - 🤝 I’m looking to **collaborate on small projects** to gain experience;
