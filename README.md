@@ -8,6 +8,6 @@
 
 <div align="left">
   <a href="https://solmane.bandcamp.com/album/demos-da-lage">
-    <img src="https://i.imgur.com/W4cr04r.png" width="600">
+    <img src="https://i.imgur.com/W4cr04r.png" width="400">
   </a>
 </div>
