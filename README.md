@@ -4,3 +4,12 @@
 - 🌱 Currently interrested in **AI (LLM's), C, Java**;
 - 🤝 Looking to **collaborate on all type projects** to gain experience;
 - 📁 Check <a href="https://rrodrickk.github.io">my portfolio</a> for deeper info;
+  
+---
+
+### In the making...
+
+💻🔗💻 &nbsp;**Orchestration system of commands composed of two programs: the controller and the runner** - **C**<br>
+🏠🤖 &nbsp;**DomusRegere** - **Java** - Domestic Automation<br>
+🌐📡 &nbsp;**Sniffer73** - **C** - Open-source network protocol analyzer 
+
