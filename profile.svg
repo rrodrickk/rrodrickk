@@ -117,7 +117,7 @@
     <!-- GitHub Stats (Fixed Layout) -->
     <text x="0" y="718" class="title">GitHub Stats</text>
     <line class="sep" x1="165" y1="710" x2="800" y2="710" />
-    <text x="0" y="763"><tspan class="label">Repos:</tspan><tspan x="240" class="val">7 {Contributed: 2} | Stars: 1</tspan></text>
+    <text x="0" y="763"><tspan class="label">Repos:</tspan><tspan x="240" class="val">10</tspan></text>
     <text x="0" y="807"><tspan class="label">Commits:</tspan><tspan x="240" class="val">150+</tspan></text>
     <text x="0" y="851"><tspan class="label">Lines of Code:</tspan><tspan x="240" class="val">15,230 ( </tspan><tspan class="green">20,450++ </tspan><tspan class="val">, </tspan><tspan class="red">5,220-- </tspan><tspan class="val">)</tspan></text>
   </g>
