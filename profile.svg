@@ -1,23 +1,22 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1772 1168" width="100%" height="100%">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 894" width="100%" height="100%">
   <defs>
     <style>
-      .bg    { fill: #13161f; stroke: #242936; stroke-width: 2; }
-      .text  { font-family: 'Fira Code', 'JetBrains Mono', 'Consolas', 'Courier New', monospace; font-size: 17px; fill: #a9b1d6; }
-      .title { fill: #7dc4e4; font-weight: bold; }
-      .label { fill: #e0af68; }
-      .dots  { fill: #3b4252; }
-      .val   { fill: #c0caf5; }
-      .green { fill: #9ece6a; }
-      .red   { fill: #f7768e; }
+      text  { font-family: 'Fira Code','JetBrains Mono','Consolas','Courier New',monospace; font-size: 18px; fill: #a9b1d6; }
+      .title{ fill: #7dc4e4; font-weight: bold; }
+      .label{ fill: #e0af68; }
+      .dots { fill: #3b4252; }
+      .val  { fill: #c0caf5; }
+      .green{ fill: #9ece6a; }
+      .red  { fill: #f7768e; }
     </style>
   </defs>
 
-  <!-- Background Card -->
-  <rect class="bg" x="5" y="5" width="1762" height="1158" rx="15" />
+  <!-- Background -->
+  <rect width="900" height="894" fill="#13161f" stroke="#242936" stroke-width="2" rx="12"/>
 
-  <!-- Left Column: ASCII Art -->
-  <foreignObject x="35" y="55" width="931" height="1058">
-    <pre xmlns="http://www.w3.org/1999/xhtml" style="margin:0;padding:0;font-family:'Consolas','Lucida Console','Courier New',monospace;font-size:11px;line-height:13.5px;color:#8ac1e8;font-weight:bold;white-space:pre;letter-spacing:0;font-variant-numeric:tabular-nums;">                                                    Ò¾[¨[
+  <!-- LEFT: ASCII art scaled down via CSS transform -->
+  <foreignObject x="20" y="20" width="256" height="290">
+    <pre xmlns="http://www.w3.org/1999/xhtml" style="margin:0;padding:0;font-family:'Consolas','Lucida Console','Courier New',monospace;font-size:9px;line-height:11px;color:#8ac1e8;font-weight:bold;white-space:pre;letter-spacing:0;font-variant-numeric:tabular-nums;transform:scale(0.3329);transform-origin:top left;display:block;">                                                    Ò¾[¨[
                                              [c!¨¨°![ò[!°  !òòY
                                         !ÆÝc°°!         ¨¨    ¨°  ¨¨   [Y
                                      °ê[  ¨                !!   °       ¨![[
@@ -97,29 +96,29 @@ ccòòòò¾ðêY[[c[c[!!°!!cc òÝcòòòòYÝÝòòcòcòcYYYYY¾òYYòY¾¾�
       [¾cc¾Ýòc![[!!°!!°° ÒòcccY¾Ý¾òòòòYYòYYYYYòòòcòòYòYò¾YYòòYòòcòòccYY¾¾Y[[còcccc[[ccòòcòc[òYcc[Ý°[[[c!!Y[ °ÝÝ¾òc![[còY¾¾¾òYYc![[cccòYYYYò</pre>
   </foreignObject>
 
-  <!-- Right Column -->
-  <g class="text" transform="translate(986, 55)">
-    <text x="0" y="32"><tspan class="title">rrodrickk</tspan> <tspan class="dots">--------------------------------------------------</tspan></text>
-    <text x="0" y="75"><tspan class="dots">. </tspan><tspan class="label">OS:</tspan> <tspan class="dots">......................... </tspan><tspan class="val">Arch Linux, Windows 11</tspan></text>
-    <text x="0" y="117"><tspan class="dots">. </tspan><tspan class="label">WM:</tspan> <tspan class="dots">......................... </tspan><tspan class="val">Sway</tspan></text>
-    <text x="0" y="160"><tspan class="dots">. </tspan><tspan class="label">Uptime:</tspan> <tspan class="dots">..................... </tspan><tspan class="val">20 years</tspan></text>
-    <text x="0" y="203"><tspan class="dots">. </tspan><tspan class="label">Host:</tspan> <tspan class="dots">....................... </tspan><tspan class="val">Thinkpad E14</tspan></text>
-    <text x="0" y="245"><tspan class="dots">. </tspan><tspan class="label">IDE:</tspan> <tspan class="dots">........................ </tspan><tspan class="val">VS Code, Antigravity, Nano</tspan></text>
-    <text x="0" y="318"><tspan class="title">Languages</tspan> <tspan class="dots">--------------------------------------------------</tspan></text>
-    <text x="0" y="360"><tspan class="dots">. </tspan><tspan class="label">Programming:</tspan> <tspan class="dots">................ </tspan><tspan class="val">C, Java, Haskell, TypeScript, JavaScript</tspan></text>
-    <text x="0" y="403"><tspan class="dots">. </tspan><tspan class="label">Web &amp; Config:</tspan> <tspan class="dots">............... </tspan><tspan class="val">HTML, CSS, JSON, YAML, Markdown</tspan></text>
-    <text x="0" y="446"><tspan class="dots">. </tspan><tspan class="label">Spoken:</tspan> <tspan class="dots">..................... </tspan><tspan class="val">Portuguese (Native), English (Advanced)</tspan></text>
-    <text x="0" y="518"><tspan class="title">Hobbies</tspan> <tspan class="dots">--------------------------------------------------</tspan></text>
-    <text x="0" y="561"><tspan class="dots">. </tspan><tspan class="label">Software:</tspan> <tspan class="dots">................... </tspan><tspan class="val">Open Source, Linux Customization</tspan></text>
-    <text x="0" y="604"><tspan class="dots">. </tspan><tspan class="label">Music:</tspan> <tspan class="dots">...................... </tspan><tspan class="val">Jazz Guitar, improvisation</tspan></text>
-    <text x="0" y="676"><tspan class="title">Contact</tspan> <tspan class="dots">--------------------------------------------------</tspan></text>
-    <text x="0" y="719"><tspan class="dots">. </tspan><tspan class="label">Email:</tspan> <tspan class="dots">...................... </tspan><tspan class="val">rodrigosilva06@gmail.com</tspan></text>
-    <text x="0" y="762"><tspan class="dots">. </tspan><tspan class="label">Portfolio:</tspan> <tspan class="dots">.................. </tspan><tspan class="val">rrodrickk.github.io</tspan></text>
-    <text x="0" y="804"><tspan class="dots">. </tspan><tspan class="label">LinkedIn:</tspan> <tspan class="dots">................... </tspan><tspan class="val">linkedin.com/in/rrodrickk</tspan></text>
-    <text x="0" y="847"><tspan class="dots">. </tspan><tspan class="label">GitHub:</tspan> <tspan class="dots">..................... </tspan><tspan class="val">github.com/rrodrickk</tspan></text>
-    <text x="0" y="919"><tspan class="title">GitHub Stats</tspan> <tspan class="dots">--------------------------------------------------</tspan></text>
-    <text x="0" y="962"><tspan class="dots">. </tspan><tspan class="label">Repos:</tspan> <tspan class="dots">...................... </tspan><tspan class="val">7 {Contributed: 2} | Stars: 1</tspan></text>
-    <text x="0" y="1005"><tspan class="dots">. </tspan><tspan class="label">Commits:</tspan> <tspan class="dots">.................... </tspan><tspan class="val">150+</tspan></text>
-    <text x="0" y="1047"><tspan class="dots">. </tspan><tspan class="label">Lines of Code:</tspan> <tspan class="dots">.............. </tspan><tspan class="val">15,230 ( </tspan><tspan class="green">20,450++ </tspan><tspan class="val">,  </tspan><tspan class="red">5,220-- </tspan><tspan class="val">)</tspan></text>
+  <!-- RIGHT: Info panel -->
+  <g transform="translate(296, 20)">
+    <text x="0" y="18" class="title">rrodrickk <tspan class="dots">------------------------------------</tspan></text>
+    <text x="0" y="52"><tspan class="dots">. </tspan><tspan class="label">OS:</tspan><tspan class="dots"> ................... </tspan><tspan class="val">Arch Linux, Windows 11</tspan></text>
+    <text x="0" y="86"><tspan class="dots">. </tspan><tspan class="label">WM:</tspan><tspan class="dots"> ................... </tspan><tspan class="val">Sway</tspan></text>
+    <text x="0" y="120"><tspan class="dots">. </tspan><tspan class="label">Uptime:</tspan><tspan class="dots"> ............... </tspan><tspan class="val">20 years</tspan></text>
+    <text x="0" y="154"><tspan class="dots">. </tspan><tspan class="label">Host:</tspan><tspan class="dots"> ................. </tspan><tspan class="val">Thinkpad E14</tspan></text>
+    <text x="0" y="188"><tspan class="dots">. </tspan><tspan class="label">IDE:</tspan><tspan class="dots"> .................. </tspan><tspan class="val">VS Code, Antigravity, Nano</tspan></text>
+    <text x="0" y="244" class="title">Languages <tspan class="dots">------------------------------------</tspan></text>
+    <text x="0" y="278"><tspan class="dots">. </tspan><tspan class="label">Programming:</tspan><tspan class="dots"> .......... </tspan><tspan class="val">C, Java, Haskell, TypeScript, JS</tspan></text>
+    <text x="0" y="312"><tspan class="dots">. </tspan><tspan class="label">Web & Config:</tspan><tspan class="dots"> ......... </tspan><tspan class="val">HTML, CSS, JSON, YAML</tspan></text>
+    <text x="0" y="346"><tspan class="dots">. </tspan><tspan class="label">Spoken:</tspan><tspan class="dots"> ............... </tspan><tspan class="val">Portuguese, English (Advanced)</tspan></text>
+    <text x="0" y="402" class="title">Hobbies <tspan class="dots">------------------------------------</tspan></text>
+    <text x="0" y="436"><tspan class="dots">. </tspan><tspan class="label">Software:</tspan><tspan class="dots"> ............. </tspan><tspan class="val">Open Source, Linux Customization</tspan></text>
+    <text x="0" y="470"><tspan class="dots">. </tspan><tspan class="label">Music:</tspan><tspan class="dots"> ................ </tspan><tspan class="val">Jazz Guitar, improvisation</tspan></text>
+    <text x="0" y="526" class="title">Contact <tspan class="dots">------------------------------------</tspan></text>
+    <text x="0" y="560"><tspan class="dots">. </tspan><tspan class="label">Email:</tspan><tspan class="dots"> ................ </tspan><tspan class="val">rodrigosilva06@gmail.com</tspan></text>
+    <text x="0" y="594"><tspan class="dots">. </tspan><tspan class="label">Portfolio:</tspan><tspan class="dots"> ............ </tspan><tspan class="val">rrodrickk.github.io</tspan></text>
+    <text x="0" y="628"><tspan class="dots">. </tspan><tspan class="label">LinkedIn:</tspan><tspan class="dots"> ............. </tspan><tspan class="val">linkedin.com/in/rrodrickk</tspan></text>
+    <text x="0" y="662"><tspan class="dots">. </tspan><tspan class="label">GitHub:</tspan><tspan class="dots"> ............... </tspan><tspan class="val">github.com/rrodrickk</tspan></text>
+    <text x="0" y="718" class="title">GitHub Stats <tspan class="dots">------------------------------------</tspan></text>
+    <text x="0" y="752"><tspan class="dots">. </tspan><tspan class="label">Repos:</tspan><tspan class="dots"> ................ </tspan><tspan class="val">7 {Contributed: 2} | Stars: 1</tspan></text>
+    <text x="0" y="786"><tspan class="dots">. </tspan><tspan class="label">Commits:</tspan><tspan class="dots"> .............. </tspan><tspan class="val">150+</tspan></text>
+    <text x="0" y="820"><tspan class="dots">. </tspan><tspan class="label">Lines of Code:</tspan><tspan class="dots"> ........ </tspan><tspan class="val">15,230 ( </tspan><tspan class="green">20,450++ </tspan><tspan class="val">, </tspan><tspan class="red">5,220-- </tspan><tspan class="val">)</tspan></text>
   </g>
 </svg>
